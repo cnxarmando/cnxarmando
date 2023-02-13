@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working in a diverse area
-- 🌱 I’m currently learning in English, HTML, CSS, SASS, JS, SQL, NODE JS, ReactJS, SQL, JAVA
+- 🌱 I’m currently learning in English, HTML, CSS, SASS, JS, SQL, NODE JS, ReactJS, JAVA
 - 📫 How to reach me: cnxarmando@gmail.com
 
 
