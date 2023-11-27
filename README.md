@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in a diverse area
-- 🌱 I’m currently learning in English, HTML, CSS, SASS, JS, SQL, NODE JS, ReactJS, JAVA
+- 💻 I’m currently working developer Freelance
+-  HTML, CSS, SASS, JS, SQL, NODE JS, ReactJS, JAVA
+- 🌱 I’m currently learning in English
 - 📫 How to reach me: cnxarmando@gmail.com
 
 
@@ -19,7 +20,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/armando-freitas-40153511b/" target="_blank">
+<a href="https://www.linkedin.com/in/armando-freitas/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-armandofreitas-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/cnxarmando/" target="_blank">
