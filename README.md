@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 💻 I’m currently working developer Freelance
--  HTML, CSS, SASS, JS, SQL, NODE JS, ReactJS, JAVA
-- 🌱 I’m currently learning in English
+-  JavaScript, typeScript, React, React Native, SASS, SQL, NODE JS, JAVA
 - 📫 How to reach me: cnxarmando@gmail.com
 
 
