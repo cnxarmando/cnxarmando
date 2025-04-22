@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-- 💻 I’m currently working developer Freelance
--  JavaScript, typeScript, React, React Native, SASS, SQL, NODE JS, JAVA
-- 📫 How to reach me: cnxarmando@gmail.com
-
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
